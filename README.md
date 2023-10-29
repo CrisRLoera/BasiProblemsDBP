@@ -16,4 +16,8 @@ El programa imprime los numero pares desde el 0 al 100.
 
 El programa suma los primeros 100 números y imprime la suma.
 
+## Problema 5
+
+EL programa realiza una suma de los números impares, imprime el número de impares y el número de ellos encontrados.
+
 *Autor:* Cristian Yael Rubi Loera
