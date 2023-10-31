@@ -20,4 +20,8 @@ El programa suma los primeros 100 números y imprime la suma.
 
 EL programa realiza una suma de los números impares, imprime el número de impares y el número de ellos encontrados.
 
+## Problema 6
+
+El programa pide una entrada de un número límite para la cuenta, de tal manera que el programa imprime los números del uno al número límite.
+
 *Autor:* Cristian Yael Rubi Loera
