@@ -56,4 +56,8 @@ El programa selecciona los números multiplos de 2 y 3, imprime una lista de cad
 
 El programa permite a el usuario ingresar 5 entradas, de esas 5 entradas númericas se encuentra el valor maximo y el minimo.
 
+## Problema 15
+
+El programa basado en el programa anterior, imprime los números enteros entre un intervalo dado por dos entradas, sin importar el orden de entrada, cuenta el número de números entre el intervalo, la cantidad de pares y la suma de impares.
+
 *Autor:* Cristian Yael Rubi Loera
