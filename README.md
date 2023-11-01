@@ -52,4 +52,8 @@ El programa realiza una suma de los número pares por un lado y impares por el o
 
 El programa selecciona los números multiplos de 2 y 3, imprime una lista de cada uno y al final la suma de los mismos.
 
+## Problema 14
+
+El programa permite a el usuario ingresar 5 entradas, de esas 5 entradas númericas se encuentra el valor maximo y el minimo.
+
 *Autor:* Cristian Yael Rubi Loera
