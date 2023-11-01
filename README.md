@@ -60,4 +60,8 @@ El programa permite a el usuario ingresar 5 entradas, de esas 5 entradas númeri
 
 El programa basado en el programa anterior, imprime los números enteros entre un intervalo dado por dos entradas, sin importar el orden de entrada, cuenta el número de números entre el intervalo, la cantidad de pares y la suma de impares.
 
+## Problema 16
+
+El programa imprime diez veces la serie del 1 al 10.
+
 *Autor:* Cristian Yael Rubi Loera
