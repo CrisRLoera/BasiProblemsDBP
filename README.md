@@ -44,4 +44,9 @@ El programa acepta una entrada de un número he indica si este es par o impar.
 
 El programa imprime en consola los números multiplos de 3 desde el 0 hasta el número que le indiquemos.
 
+## Problema 12
+
+El programa realiza una suma de los número pares por un lado y impares por el otro, impimiendo la suma de estos.
+
+
 *Autor:* Cristian Yael Rubi Loera
