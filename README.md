@@ -48,5 +48,8 @@ El programa imprime en consola los números multiplos de 3 desde el 0 hasta el n
 
 El programa realiza una suma de los número pares por un lado y impares por el otro, impimiendo la suma de estos.
 
+## Problema 13
+
+El programa selecciona los números multiplos de 2 y 3, imprime una lista de cada uno y al final la suma de los mismos.
 
 *Autor:* Cristian Yael Rubi Loera
