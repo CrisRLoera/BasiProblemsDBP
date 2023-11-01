@@ -24,4 +24,8 @@ EL programa realiza una suma de los números impares, imprime el número de impa
 
 El programa pide una entrada de un número límite para la cuenta, de tal manera que el programa imprime los números del uno al número límite.
 
+## Problema 7
+
+El programa cuenta las frases que se introducen por teclado, al final imprime la cuenta.
+
 *Autor:* Cristian Yael Rubi Loera
