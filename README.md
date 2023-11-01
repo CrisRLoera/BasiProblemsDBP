@@ -36,4 +36,8 @@ El programa solo acepta como validas las entradas 's' o 'n', entradas diferentes
 
 Si la entrada a el programa es un número indica si este es positivo o negativo.
 
+## Problema 10
+
+El programa acepta una entrada de un número he indica si este es par o impar.
+
 *Autor:* Cristian Yael Rubi Loera

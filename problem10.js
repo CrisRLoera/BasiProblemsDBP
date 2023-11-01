@@ -10,12 +10,12 @@ rl.question ('Escribe un número:', (input)=>{
 
     if(isNaN(number)) {
         console.log('Entrada invalida');
-    }else if (number > 0) {
-        console.log('El número es positivo');
-    }else if (number < 0) {
-        console.log('El número es negativo');
+    }else if (number % 2 == 0) {
+        console.log('El número es par.');
+    }else if (number % 2 != 0) {
+        console.log('El número es impar.');
     }else{
-        console.log('El número es cero');
+        console.log('La entrada es desconocida');
     }
     rl.close();
 });
