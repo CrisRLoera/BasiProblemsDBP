@@ -30,6 +30,10 @@ El programa cuenta las frases que se introducen por teclado, al final imprime la
 
 ## Problema 8
 
-EL programa solo acepta como validas las entradas 's' o 'n', entradas diferentes se señalan como no validas.
+El programa solo acepta como validas las entradas 's' o 'n', entradas diferentes se señalan como no validas.
+
+## Problema 9
+
+Si la entrada a el programa es un número indica si este es positivo o negativo.
 
 *Autor:* Cristian Yael Rubi Loera
