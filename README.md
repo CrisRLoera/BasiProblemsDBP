@@ -40,4 +40,8 @@ Si la entrada a el programa es un número indica si este es positivo o negativo.
 
 El programa acepta una entrada de un número he indica si este es par o impar.
 
+## Problema 11
+
+El programa imprime en consola los números multiplos de 3 desde el 0 hasta el número que le indiquemos.
+
 *Autor:* Cristian Yael Rubi Loera
