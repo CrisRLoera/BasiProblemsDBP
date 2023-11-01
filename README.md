@@ -28,4 +28,8 @@ El programa pide una entrada de un número límite para la cuenta, de tal manera
 
 El programa cuenta las frases que se introducen por teclado, al final imprime la cuenta.
 
+## Problema 8
+
+EL programa solo acepta como validas las entradas 's' o 'n', entradas diferentes se señalan como no validas.
+
 *Autor:* Cristian Yael Rubi Loera
